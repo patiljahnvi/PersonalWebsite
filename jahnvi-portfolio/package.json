@@ -1,0 +1,23 @@
+{
+  "name": "jahnvi-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "framer-motion": "^12.23.12",
+    "next": "15.5.2",
+    "postcss": "^8.4.27",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+  "tailwindcss": "3.3.3",
+  "postcss": "8.4.27",
+  "autoprefixer": "10.4.14"
+}
+}
